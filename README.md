@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/karimabdelhameed/OtpVerification.svg)](https://jitpack.io/#karimabdelhameed/OtpVerification)
+
 # OtpVerification
 
 Introducing OtpVerification, a powerful and easy-to-use Android library built with Jetpack Compose for seamless OTP (One-Time Password) verification in your apps. Designed to simplify the implementation of secure authentication flows, this library offers a clean, customizable UI component that integrates effortlessly into your Compose-based projects. 
