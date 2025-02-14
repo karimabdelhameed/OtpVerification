@@ -58,7 +58,7 @@ fun TestOtp(modifier: Modifier = Modifier) {
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(start = 24.dp, end = 24.dp, top = 40.dp),
-            text = "Please verify your phone number with the OTP we sent to (***)***-2193.",
+            text = "Please verify your phone number with the OTP we sent to t**t@domain.com",
             style = MaterialTheme.typography.bodyMedium,
             color = androidx.compose.ui.graphics.Color.Blue,
             textAlign = TextAlign.Center
