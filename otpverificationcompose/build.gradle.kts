@@ -46,7 +46,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.karimabdelhameed"
                 artifactId = "OtpVerification"
-                version = "1.0.0-alpha03"
+                version = "1.0.0-alpha04"
             }
         }
     }
