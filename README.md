@@ -77,9 +77,6 @@ val otpConfig = OtpConfig(
 <img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_layout.png" width="300" alt="sample1">
 <img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_layout_filled.png" width="300" alt="sample2">
 <img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_layout_error.png" width="300" alt="sample3">
-</p>
-
-<p float="left">
 <img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_video.gif" width="300" alt="sample4">
 </p>
 
