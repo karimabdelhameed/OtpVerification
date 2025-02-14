@@ -97,5 +97,5 @@ val otpConfig = OtpConfig(
 If you like this, maybe consider buying me a coffe ✌️
 <a href="https://www.buymeacoffee.com/karimabdelhamed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-If this repo helped you , you can join the [stargazers](https://github.com/karimabdelhameed/OtpVerification/stargazers) for this repo ⭐
+You can also join the [stargazers](https://github.com/karimabdelhameed/OtpVerification/stargazers) for this repo if it helps you!⭐
 
