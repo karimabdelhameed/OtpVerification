@@ -2,7 +2,7 @@
 
 Introducing OtpVerification, a powerful and easy-to-use Android library built with Jetpack Compose for seamless OTP (One-Time Password) verification in your apps. Designed to simplify the implementation of secure authentication flows, this library offers a clean, customizable UI component that integrates effortlessly into your Compose-based projects. 
 
-<img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_android.png" alt="main">
+<img src="https://github.com/karimabdelhameed/OtpVerification/blob/main/.github/assets/otp_android.png" alt="main">
 
 
 Key Benefits:  
@@ -74,10 +74,10 @@ val otpConfig = OtpConfig(
 
 ## Sample output
 <p float="left">
-<img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_layout.png" width="300" alt="sample1">
-<img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_layout_filled.png" width="300" alt="sample2">
-<img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_layout_error.png" width="300" alt="sample3">
-<img src="https://github.com/karimabdelhameed/OtpVerification/blob/develop/.github/assets/otp_video.gif" width="300" alt="sample4">
+<img src="https://github.com/karimabdelhameed/OtpVerification/blob/main/.github/assets/otp_layout.png" width="300" alt="sample1">
+<img src="https://github.com/karimabdelhameed/OtpVerification/blob/main/.github/assets/otp_layout_filled.png" width="300" alt="sample2">
+<img src="https://github.com/karimabdelhameed/OtpVerification/blob/main/.github/assets/otp_layout_error.png" width="300" alt="sample3">
+<img src="https://github.com/karimabdelhameed/OtpVerification/blob/main/.github/assets/otp_video.gif" width="300" alt="sample4">
 </p>
 
 ## Future plan
